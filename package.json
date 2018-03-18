@@ -12,7 +12,6 @@
   "dependencies": {
     "backbone4000": "git+https://github.com/leshy/backbone4000.git",
     "bluebird": "^3.5.1",
-    "midi": "^0.9.5",
     "onoff": "^2.0.0",
     "ribcage": "git+https://github.com/leshy/ribcage.git",
     "leshdash": "git+https://github.com/leshy/leshdash.git",
