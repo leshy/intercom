@@ -10,13 +10,13 @@
   "author": "lesh <lesh@sysphere.org> (http://lesh.sysphere.org)",
   "license": "ISC",
   "dependencies": {
-    "backbone4000": "git://github.com/leshy/backbone4000.git",
+    "backbone4000": "git+https://github.com/leshy/backbone4000.git",
     "bluebird": "^3.5.1",
     "midi": "^0.9.5",
     "onoff": "^2.0.0",
-    "ribcage": "git://github.com/leshy/ribcage.git",
-    "leshdash": "git://github.com/leshy/leshdash.git",
-    "ribcage_logger": "git://github.com/leshy/ribcage_logger.git",
-    "statemachine": "git://github.com/leshy/statemachine.git"
+    "ribcage": "git+https://github.com/leshy/ribcage.git",
+    "leshdash": "git+https://github.com/leshy/leshdash.git",
+    "ribcage_logger": "git+https://github.com/leshy/ribcage_logger.git",
+    "statemachine": "git+https://github.com/leshy/statemachine.git"
   }
 }
